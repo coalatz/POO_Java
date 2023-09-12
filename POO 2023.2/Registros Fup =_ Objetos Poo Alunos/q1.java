@@ -1,3 +1,8 @@
+// fiz parcial e passou em todos os testes
+// fiz na sala com o professor
+//aprendi muito no geral, pois foi meu primeiro contato, o que e um objeto, como chamar, a parte do scanner, que e bem diferente de c para ler as informaçoes
+// foi feita durante a aula 
+
 import java.util.Scanner;
 class Aluno {
     String nome;

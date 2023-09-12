@@ -1,3 +1,11 @@
+//passou tudo
+//fiz sozinho
+//tambem estou fazendo um curso de poo em java do gustavo guanabara
+// e por la ja tinha tido um certo contato com os modificadores de acesso
+// entao foi algo familiar, mas serviu bem pra aprender e praticar, ja tinha feito
+// uma atividade usando os mesmo conceitos e esta no driva tambem
+// 2 horas
+
 import java.util.Scanner;
 
 class Pet {

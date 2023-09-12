@@ -1,3 +1,9 @@
+//fiz parcial 
+//fiz com um amigo fora da disciplina
+//tive uma certa dificiculdade com a main pois ainda nao tava entendendo muito bem
+// e tava dando alguns erros e pedir ajuda, mas de resto fiz so.
+// 2 horas
+
 import java.util.Scanner;
 
 class Calculator {

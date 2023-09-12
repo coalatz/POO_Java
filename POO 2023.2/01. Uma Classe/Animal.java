@@ -1,3 +1,8 @@
+//fiz sozinho, mas peguei a main disponibilizada, passou em tudo
+// fiz sozinho
+// foi uma atividade que demorei um pouco, por ser uma das partes que vai ficando dificil, mas conseguir fazer bem
+// 4 horas
+
 import java.util.Scanner;
 
 class Animal {

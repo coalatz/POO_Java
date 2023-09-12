@@ -1,3 +1,8 @@
+// fiz tudo
+// fiz sozinho
+// peguei a base da primeira questao, pois e resolvida basucamente da mesma forma, serviu pra assimilar melhor o conteudo
+// 1 hora
+
 import java.util.Scanner;
 
 class Aluno{

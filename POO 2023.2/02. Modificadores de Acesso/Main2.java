@@ -1,3 +1,11 @@
+//passou em tudo
+// fiz so 
+// tive dificuldade de implementar a funçao next pois
+// estava usadando get e set, so que la tinham os limitadores
+// entao quando chegava a 60 dava erro, e passei um tmepo nisso
+// ate perceber que tinha que ser as variaveis direto
+// 3 horas
+
 import java.util.Scanner;
 
 class Time {

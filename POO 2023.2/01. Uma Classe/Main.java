@@ -1,3 +1,8 @@
+//fiz parcial
+//fiz em sala com o profssor
+//primeira vez que a main foi usada e fiquei um pouco perdido no inicio, mas fui entendedo
+// 1 hora
+
 import java.util.Scanner;
 
 class Carro {

@@ -1,3 +1,8 @@
+//fiz tudo
+// com o professor
+// essa questao foi a mais desafiadora do primeiro contato, pois nao entendi tanto a logica, de primeira, so depois que fui fazendo outras questoes que fui conseguindo entender melhor
+// de 1 dia para o outro 
+
 import java.util.Scanner;
 import java.lang.Math;
 
